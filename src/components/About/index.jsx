@@ -27,7 +27,7 @@ const About = () => {
                                 <AboutP>
                                     My name is Luke Sutton and I live in
                                     Norwich, England. I am a web developer with
-                                    a keen intrest in development and
+                                    a keen interest in development and
                                     consistantly improving my skills. When I am
                                     not developing I enjoy, movies, games,
                                     books, listening to music and playing

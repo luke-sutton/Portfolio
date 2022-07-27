@@ -37,7 +37,7 @@ export const ProjectsWrapper = styled.div`
 `;
 
 export const ProjectsCard = styled.div`
-    background: darkgray;
+    background: #cedbdb;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
