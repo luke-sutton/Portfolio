@@ -44,6 +44,9 @@ export const VideoBg = styled.video`
     -o-object-fit: cover;
     object-fit: cover;
     background: #232a34;
+    @media screen and (max-width: 480px) {
+        display: none;
+    }
 `;
 
 export const SkillsContent = styled.div`
