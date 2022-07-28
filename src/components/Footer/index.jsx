@@ -1,6 +1,6 @@
 import React from "react";
 import { animateScroll as scroll } from "react-scroll";
-import { FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, FaGithub, FaCodepen } from "react-icons/fa";
 import {
     FooterContainer,
     FooterWrap,
@@ -36,6 +36,13 @@ const Footer = () => {
                                 aria-label="Github"
                             >
                                 <FaGithub />
+                            </SocialIconLink>
+                            <SocialIconLink
+                                href="//www.codepen.io/lambdaluke"
+                                target="_blank"
+                                aria-label="Github"
+                            >
+                                <FaCodepen />
                             </SocialIconLink>
                             <SocialIconLink
                                 href="//www.twitter.com/lamdaluke"
